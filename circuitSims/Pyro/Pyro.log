@@ -1,0 +1,25 @@
+Circuit: * G:\Engineering work\blackmagic\L1\sims\Pyro\Pyro.asc
+
+Limiting rise time of source v6 to 0.001
+Limiting fall time of source v6 to 0.001
+Limiting rise time of source v3 to 0.0002
+Limiting fall time of source v3 to 0.0002
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jul 31 20:18:14 2022
+Total elapsed time: 0.077 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8131
+traniter = 8085
+tranpoints = 2213
+accept = 1632
+rejected = 581
+matrix size = 39
+fillins = 16
+solver = Normal
+Matrix Compiler1: 3.01 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
